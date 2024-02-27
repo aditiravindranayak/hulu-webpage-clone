@@ -2,7 +2,7 @@
 
 This repository contains a clone of the Hulu webpage. It serves as a learning resource for frontend developers who wish to understand modern web development techniques by replicating a popular streaming service's webpage.
 
-<img width="946" alt="image" src="https://github.com/aditiravindranayak/hulu-page-clone/assets/109815646/b632b8d3-a2e5-403c-8bb8-79505a0ddc1a">
+
 
 ## Table of Contents
 
@@ -59,10 +59,6 @@ To run the Hulu webpage clone locally, follow these steps:
 4. **Explore and Enjoy:**  
    Explore the cloned Hulu webpage, interact with its features, and analyze its implementation to learn more about frontend development techniques.
 
-## Screenshots
-<img width="946" alt="image" src="https://github.com/aditiravindranayak/hulu-page-clone/assets/109815646/e1e73bb1-8afd-443c-aca1-9b622a635a03">
-
-<img width="947" alt="image" src="https://github.com/aditiravindranayak/hulu-page-clone/assets/109815646/a7082632-77f2-45f0-bd2b-92d00eb6fd1b">
 
 
 ## Contributing
