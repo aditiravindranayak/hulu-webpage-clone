@@ -60,6 +60,14 @@ To run the Hulu webpage clone locally, follow these steps:
    Explore the cloned Hulu webpage, interact with its features, and analyze its implementation to learn more about frontend development techniques.
 
 ## Screenshots
+<img width="946" alt="image" src="https://github.com/aditiravindranayak/hulu-page-clone/assets/109815646/e1e73bb1-8afd-443c-aca1-9b622a635a03">
+
+<img width="947" alt="image" src="https://github.com/aditiravindranayak/hulu-page-clone/assets/109815646/a7082632-77f2-45f0-bd2b-92d00eb6fd1b">
+
+
+## Contributing
+
+Contributions to the Hulu Webpage Clone project are welcome and encouraged. If you have suggestions for improvements, bug fixes, or additional features, feel free to open an issue or submit a pull request. Please adhere to the project's code of conduct and follow the contribution guidelines.
 
 
 Feel free to customize and expand upon this README to provide more specific instructions or additional details as needed.
